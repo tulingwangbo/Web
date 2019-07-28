@@ -24,7 +24,9 @@ branch_190629  commit 1
 
 Branch_0420 add line1
 
-branch_0420 add line2
+branch_0420 master modiy line3
+
+this make a conflict 0728
 
 
-branch_0420 add line3
+
