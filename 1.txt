@@ -33,3 +33,5 @@ this is a test conflict;
 
 变基时候应该选择master合并之后的提交来变，否则的话add line2， add line3也会跑到最新（时间小却跑到时间大的后面了），
 branch_0420，变基时选择了全部，导致add line2,add line3 跑到“测试冲突，该2行”的后面了
+
+必须提交或者贮藏才能变基，变基就是把当前的给放到最后了？
