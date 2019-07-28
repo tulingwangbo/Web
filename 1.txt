@@ -30,3 +30,5 @@ this make a conflict 0728
 
 
 this is a test conflict;
+
+变基时候应该选择master合并之后的提交来变，否则的话add line2， add line3也会跑到最新（时间小却跑到时间大的后面了），
