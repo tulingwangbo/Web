@@ -30,3 +30,5 @@ this make a conflict 0728
 
 
 this is a test conflict;
+
+branch_0420，变基时选择了全部，导致add line2,add line3 跑到“测试冲突，该2行”的后面了
